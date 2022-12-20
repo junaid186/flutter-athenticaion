@@ -35,7 +35,7 @@ class _MyHomePageState extends State<MyHomePage> {
             // SizedBox(
             //   width: 5,
             // ),
-            FlatButton(
+            TextButton(
                 onPressed: () {},
                 child: Text(
                   "Current location",

@@ -214,9 +214,9 @@ class _ProfileScreenState extends State<ProfileScreen> {
             //   // height: 30,
             //   // width: 30,
             //   child:
-            RaisedButton(
-          elevation: elevationOfButton,
-          color: Colors.white,
+            ElevatedButton(
+          // elevation: elevationOfButton,
+          // color: Colors.white,
           onPressed: () {},
           child: Column(
             children: [
@@ -257,9 +257,9 @@ class _ProfileScreenState extends State<ProfileScreen> {
             //   // height: 30,
             //   // width: 30,
             //   child:
-            RaisedButton(
-          elevation: elevationOfButton,
-          color: Colors.white,
+            ElevatedButton(
+          // elevation: elevationOfButton,
+          // color: Colors.white,
           onPressed: () {},
           child: Column(
             children: [
@@ -300,9 +300,9 @@ class _ProfileScreenState extends State<ProfileScreen> {
             //   // height: 30,
             //   // width: 30,
             //   child:
-            RaisedButton(
-          elevation: elevationOfButton,
-          color: Colors.white,
+            ElevatedButton(
+          // elevation: elevationOfButton,
+          // color: Colors.white,
           onPressed: () {},
           child: Column(
             children: [
